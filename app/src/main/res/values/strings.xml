@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">heventapps</string>
     <string name="ingrese_usuario">Ingrese usuario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">all u can eat de agosto, a favor del hogar de ansianosdasdasdasdasfasfasdasfdasdasfasfasfasfas </string>
+
+
 </resources>
